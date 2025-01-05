@@ -1,5 +1,4 @@
 # n8n-chnage-password
-CSRF
 The n8n panel allows admin to get reset password link of users but by default cant do that for him self. if he want to change his password should have current password:
 ![change password](https://github.com/alirezacsp/Zero/blob/main/9.png)
 ![change password](https://github.com/alirezacsp/Zero/blob/main/7.png)
